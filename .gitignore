@@ -1,0 +1,13 @@
+# Cached source and intermediate data. Rebuild with:
+#   python -m nola_flat_routes download
+#   python -m nola_flat_routes build-network
+#   python -m nola_flat_routes site
+data/raw/
+data/processed/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
