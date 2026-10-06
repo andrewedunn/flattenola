@@ -49,14 +49,18 @@ the point:
 
 | Trip | Shortest | Flattest |
 |---|---|---|
-| Jackson Square → Audubon Park | 5.3 mi, 29 ft of climbing | 5.4 mi, 25 ft |
+| Jackson Square → Audubon Park | 5.3 mi, 29 ft of climbing | 5.5 mi, 22 ft |
 | Mid-City → Bywater | 3.8 mi, 21 ft | 3.8 mi, 16 ft |
 | Lakeview → French Quarter | 4.7 mi, 30 ft | 4.8 mi, 28 ft |
 
-Lakeview sits about 6 ft below sea level and the Square sits about 11 ft
-above it, so most of that 30 ft is the climb you cannot avoid. The ghost
-lines are where a small detour ducks a levee ramp or stays up on the ridge
-instead of dipping into the bowl and climbing back out.
+Those are the numbers on the page, not a sketch. The Quarter-to-Uptown
+slider has five distinct routes: a third of a mile and you drop the climb
+from 29 ft to 22 ft. Mid-City to Bywater saves 5 ft, a quarter of the
+climb, for a tenth of a mile. Lakeview sits about 6 ft below sea level and
+the Square sits about 11 ft above it, so most of that 30 ft is the climb
+you cannot avoid, and the flattest ride only shaves 2 ft. The faint lines
+are where a small detour stays up on the ridge instead of dipping into the
+bowl and climbing back out.
 
 Climbing is cumulative gain after a 0.5 m dead-band, not the net difference
 between the two ends. Without the dead-band, lidar noise would invent a
